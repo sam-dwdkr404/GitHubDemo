@@ -1,0 +1,7 @@
+if(brain!=empty)
+{
+keepcoding();
+}
+else{
+ordercoffee();
+}
